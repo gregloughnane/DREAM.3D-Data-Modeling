@@ -8,4 +8,3 @@ Please see "Tutorial_How to Perform Resolution and Noise Analysis on Virtual Mic
 detailed description of how to perform DREAM.3D analysis of microstructures on your own.
 
 Thanks!
-Greg
